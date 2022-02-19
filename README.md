@@ -1,8 +1,8 @@
 # What Is This?
 
-This repo holds the data sheet for the hacktimeline (which can be found [here](https://hexadecim8.com/timeline.html/).
+This repo holds the data sheet for the hack timeline (which can be found [here](https://hexadecim8.com/timeline.html/).
 
-The hacktimeline is a curated project. As such, not every PR will be accepted.
+The hack timeline is a curated project documenting a detailed history of hacks and hackers. As such, not every PR will be accepted.
 The original idea for this project was to create a highly detailed and accurate timeline of events in "Hacking History"
 for the purpose of coming to more accurate conclusions about the historic contours of our culture.
 

@@ -54,7 +54,7 @@ Australian federal police tracking Realm members Phoenix, Electron and Nom are t
 1996,8,,,,,,,,DOJ website defacement,,,,,,,defacement,#333333
 1996,10,,,,,,,,CIA website defacement,,,,,,title,defacement,
 1996,12,,,,,,,,USAF website defacement,,,,,,title,defacement,#333333
-1996,,,,,,,,,Brotherhood owns CBC,"Canadian hacker group, Brotherhood, breaks into the Canadian Broadcasting Corporation.",,,,,title,hack,
+1996,,,,,,,,,Brotherhood of warez owns CBC,"Canadian hacker group, Brotherhood of Warez, breaks into the Canadian Broadcasting Corporation.",,,,,title,hack,
 1996,,,,,,,,,FizzleB/Peanut arrested,"Arizona hacker, John Sabo A.K.A FizzleB/Peanut, was arrested for hacking Canadian ISP dlcwest.com claiming the company was defrauding customers through over billing",,,,,title,law,#333333
 1996,,,,,,,,,GAO report on DoD hacks,"The US general accounting office reports that hackers attempted to break into Defense Department computer files some 250,000 times in 1995 alone with a success rate of about 65% and doubling annually.",,,,,,government,
 1996,,,,,,,,,"""cryptovirology"" is born",Cryptovirology is born with the invention of the cryptoviral extortion protocol that would later form the basis of modern ransomware,,,,,,tech,#333333
@@ -70,7 +70,7 @@ Australian federal police tracking Realm members Phoenix, Electron and Nom are t
 1999,,,,,,,,,government computer security initiative,U.S. President Bill Clinton announces a $1.46 billion initiative to improve government computer security. The plan would establish a network of intrusion detection monitors for certain federal agencies and encourage the private sector to do the same,,,,,,government,#333333
 1999,1,7,,,,,,,"LoU declares ""war"" on Iraq & PRC","The ""Legion of the Underground"" (LoU) declares ""war"" against the governments of Iraq and the People's Republic of China. An international coalition of hackers (including Cult of the Dead Cow, 2600's staff, Phrack's staff, L0pht, and the Chaos Computer Club) issued a joint statement (CRD 990107 - Hackers on planet earth against infowar) condemning the LoU's declaration of war. The LoU responded by withdrawing its declaration",,,,,,culture,
 1999,3,,,,,,,,Melissa worm released,The Melissa worm is released and quickly becomes the most costly malware outbreak to date.,,,,,,tool,#333333
-1999,7,,,,,,,,CDC releases the original BO,Cult of the Dead Cow releases Back Orifice at DEF CON,,,,,,tool,
+1998,8,3,,,,,,,CDC releases the original BO,Cult of the Dead Cow releases Back Orifice at DEF CON,,,,,,tool,
 1999,8,,,,,,,,Mitnick sentenced,Kevin Mitnick is sentenced to 5 years in prison,,,,,,law,#333333
 1999,9,,,,,,,,level seven hacks DoS,"Level Seven Crew hacks the US Embassy in China's website and places racist, anti-government slogans on embassy site in regards to 1998 US embassy bombings. This is an example of nationalist-motivated hacks of the 1990s",,,,,,culture,
 1999,9,16,,,,,,,Phone Masters sentenced,DoJ sentences the Phone Masters.,,,,,,law,#333333
@@ -202,7 +202,7 @@ Australian federal police tracking Realm members Phoenix, Electron and Nom are t
 2013,9,,,,,,,,cryptolocker trojan,,,,,,,ransomware,https://en.wikipedia.org/wiki/Timeline_of_computer_viruses_and_worms#Pre-1970
 2016,9,20,,,,,,,Mirai botnet attacks krebs website,,,,,,,hack,https://en.wikipedia.org/wiki/Timeline_of_computer_viruses_and_worms#Pre-1970
 2018,2,,,,,,,,Thanatos ransomware,,,,,,,ransomware,https://en.wikipedia.org/wiki/Timeline_of_computer_viruses_and_worms#Pre-1970
-1957,,,,,,,,,Joybubbles discovers 2600 Hz,"At 7 years old, Joybubbles discovers that whistling at 2600 Hz interferes with AT&T's automated telephone systems opening the door for phone phreaking",,,,,,milestone,
+1957,,,,,,,,,Joybubbles discovers 2600 Hz,"At 7 years old, Joybubbles allegedly discovers that whistling at 2600 Hz interferes with AT&T's automated telephone systems opening the door for phone phreaking",,,,,,milestone,
 1985,,,,1990,,,,,Hacker's Handbook published,,,,,,,publication,#333333
 1967,,,,1973,,,,,Golden age of phone phreaking,,,,,,era,milestone,
 1993,3,,,,,,,,Wired Magazine publishes first issue,,,,,,,publication,#333333
@@ -248,7 +248,7 @@ The CCCF had an electronic magazine called Chaos Digest (ChaosD). Between 4 Janu
 1993,,,,,,,,,Clipper Chip controversy,"Because of concerns that widespread use of strong cryptography would hamper government use of wiretaps, NSA proposed the concept of key escrow in 1993 and introduced the Clipper chip that would offer stronger protection than DES but would allow access to encrypted data by authorized law enforcement officials. The proposal was strongly opposed and key escrow requirements ultimately went nowhere. However, NSA's Fortezza hardware-based encryption cards, created for the Clipper project, are still used within government, and NSA ultimately declassified and published the design of the Skipjack cipher used on the cards",,,,,,government,#333333
 2011,,,,2014,,,,,Cicada 3301,"Cicada 3301 is a nickname given to an alleged enigmatic organization that posted three sets of puzzles online between 2011 and 2014. The first Internet puzzle started on January 4, 2012, on 4chan and ran for nearly a month. A second round began one year later on January 4, 2013, and then a third round following the confirmation of a fresh clue posted on Twitter on January 4, 2014. The third puzzle has yet to be solved. The stated intent was to recruit ""intelligent individuals"" by presenting a series of puzzles which were to be solved. No new puzzles were published on January 4, 2015. However, a new clue was posted on Twitter on January 5, 2016. Cicada 3301 posted their last verified PGP-signed message in April 2017, denying the validity of any unsigned puzzle",,,,,,culture,
 1954,,,,,,,,,FORTRAN created,,,,,,,tech,#333333
-1996,,,,2003,,,,,w00w00,"w00w00 (pronounced whoo-whoo) was a computer security think tank founded in 1996 and still active until the early 2000s.[unreliable source?] Although this group was not well known outside Information security circles, its participants have spawned more than a dozen IT companies. The two most famous examples are WhatsApp, the messaging service, and Napster, the pioneering file-sharing company.",,,,,,crew,
+1996,,,,2003,,,,,w00w00 founded,"w00w00 (pronounced whoo-whoo) was a computer security think tank founded in 1996 and still active until the early 2000s.[unreliable source?] Although this group was not well known outside Information security circles, its participants have spawned more than a dozen IT companies. The two most famous examples are WhatsApp, the messaging service, and Napster, the pioneering file-sharing company.",,,,,,crew,
 2015,8,25,,,,,,,Junaid Hussain killed,"Junaid Hussain (A.K.A. Tr1ck) is killed by a lethal drone strike in Raqqa, Syria. Hussain had left the United Kingdom to join ISIL in 2013",,,,,,government,#333333
 2008,,,,,,,,,TeaMp0isoN founded,,,,,,,crew,
 2015,1,,,,,,,,"Cyber Caliphate Army publishes ""kill list"" of US citizens","The group first emerged in hacking operations against U.S. websites in January 2015 as the Cyber Caliphate Army (CCA).[1] In March 2015, the Islamic State published a ""kill list"" on a website that included names, ranks, and addresses of 100 U.S. military members",,,,,,milestone,#333333
@@ -267,7 +267,7 @@ Nmap started as a Linux utility and was ported to other systems including Window
 1999,,,,,,,,,"""To Build A Honeypot"" published","The concept of the honey net first began in 1999 when Lance Spitzner, founder of the Honeynet Project, published the paper ""To Build a Honeypot""",,,,,,publication,https://en.wikipedia.org/wiki/Honeypot_(computing)
 1973,,,,,,,,,Bell Labs announces creation of Unix,,,,,,,publication,
 1969,,,,,,,,,Development begins on Unix,,,,,,,tool,
-1960,1,,,,,,,,Computer network proposed,"The earliest computers were connected directly to terminals used by an individual user. Christopher Strachey, who became Oxford University's first Professor of Computation, filed a patent application for time-sharing in February 1959.[22][23] In June that year, he gave a paper ""Time Sharing in Large Fast Computers"" at the UNESCO Information Processing Conference in Paris where he passed the concept on to J. C. R. Licklider.[24][25] Licklider, Vice President at Bolt Beranek and Newman, Inc., went on to propose a computer network in his January 1960 paper Man-Computer Symbiosis",,,,,,publication,
+1960,1,,,,,,,,Computer network proposed,"The earliest computers were connected directly to terminals used by an individual user. Christopher Strachey, who became Oxford University's first Professor of Computation, filed a patent application for time-sharing in February 1959. In June that year, he gave a paper ""Time Sharing in Large Fast Computers"" at the UNESCO Information Processing Conference in Paris where he passed the concept on to J. C. R. Licklider. Licklider, Vice President at Bolt Beranek and Newman, Inc., went on to propose a computer network in his January 1960 paper Man-Computer Symbiosis",,,,,,publication,
 1962,8,,,,,,,,Computer networks detailed,"In August 1962, Licklider and Welden Clark published the paper ""On-Line Man-Computer Communication"" which was one of the first descriptions of a networked future",,,,,,publication,
 1962,10,,,,,,,,DARPA begins work on early computer network,"In October 1962, Licklider was hired by Jack Ruina as director of the newly established Information Processing Techniques Office (IPTO) within DARPA, with a mandate to interconnect the United States Department of Defense's main computers at Cheyenne Mountain, the Pentagon, and SAC HQ. There he formed an informal group within DARPA to further computer research. He began by writing memos in 1963 describing a distributed network to the IPTO staff, whom he called ""Members and Affiliates of the Intergalactic Computer Network"".",,,,,,milestone,
 1966,,,,,,,,,ARPANET project initiated,,,,,,,tech,
@@ -277,3 +277,20 @@ Nmap started as a Linux utility and was ported to other systems including Window
 1981,,,,,,,,,SMTP announced,SMTP is announced giving way to the age of email,,,,,,tech,
 1968,,,,,,,,,First packet switched network,"By 1968,[42] Davies had begun building the Mark I packet-switched network to meet the needs of the multidisciplinary laboratory and prove the technology under operational conditions",,,,,,tech,
 1978,2,,,1995,,,,,Age of BBS,,,,,,era,tech,
+2018,3,,,,,,,,City of Atlanta ransomware,The city of Atlanta suffers a ransomware attack.,,,,,,ransomware,
+2019,5,,,,,,,,city of Baltimore ransomware,The city of Baltimore suffers a ransomware attack,,,,,,ransomware,
+2012,5,,,,,,,,NullCrew formed,,,,,,,crew,
+2001,5,1,,,,,,,"US/China DDoS ""war""",http://edition.cnn.com/2001/WORLD/asiapcf/east/04/27/china.hackers/index.html,,,,,,government,
+2009,5,9,,,,,,,"""Bot King"" charged",Jeanson James Ancheta is the first person charged on this day for controlling a large number of bots,,,,,,law,
+2014,8,14,,,,,,,Celebrity nudes leaked from icloud,"In this event, often referred to as ""The Fappening"" (after the M. Night Shyamalan movie ""The Happening""), a significant number of nude photos of celebrities (mostly women) were stolen from Apple's icloud accounts. Five men were later convicted of various crimes in relation to this event.",,,,,,culture,
+2004,12,10,,,,,,,Encyclopedia Dramatica launched,"Recognized as the foremost online location to procure the latest and greatest in Internet flame war content, Encyclopedia Dramatica was launched during a critical time in the formation of post 2000s online/hacker culture.",,,,,,culture,
+2017,12,,,,,,,,Ackflags passes away,"Jaime Cochrane (A.K.A. 'Ackflags', 'asshurtmacfags') is remembered by her friends. A famous troll of the early 2010s, Jaime was beloved by her family and community for her contributions to modern culture",,,,,,culture,
+2012,3,7,,,,,,,Sabu arrested,"Sabu, a co-founder of post-2000s hacking group 'lulz-sec' is arrested by the FBI after being identified by the media. Sabu was later confirmed to be an FBI informant, and his arrest began an unprecedented saga of legal trouble for many of the early 2010's hacking groups.",,,,,,law,
+2013,8,,,,,,,,POC || GTFO issue 1,The first issue of POC || GTFO is published.,,,,,,publication,
+1976,4,11,,,,,,,Apple 1 released,The first Apple computer released to the public.,,,,,,tech,
+1982,8,,,,,,,,Commodore 64 released,,,,,,,tech,
+1990,6,1,,,,,,,Dark Dante wins a Porsche,Kevin Poulsen (known as Dark Dante) takes over all of the phone lines for LA radio station KII-S FM to win himself a Porsche 944 S2,,,,,,hacks,
+1991,4,,,,,,,,Dark Dante arrested,,,,,,,law,
+2001,1,15,,,,,,,Creative Commons launched,The Creative Commons licensing framework is launched,,,,,,law,
+2012,2,1,,,,,,,Heartbleed vulnerability released,The heartbleed vulnerability is released,,,,,,tool,
+1999,7,10,,,,,,,BO2k released,"Back Oriface 2k is released, following the release of the original Back Oriface took the previous year.",,,,,,tool,
